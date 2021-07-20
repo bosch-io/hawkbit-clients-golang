@@ -1,0 +1,1 @@
+hawkbit-clients-golang
